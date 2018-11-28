@@ -1,0 +1,4 @@
+"scripts": {
+  "start": "node OpenTermina.js"
+},
+"main": "OpenTermina.js"
